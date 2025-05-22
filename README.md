@@ -22,4 +22,10 @@ then
 ./exercise_2
 ```
 
+to clean
+
+```bash
+make clean
+```
+
 ## Read exercise_2.pdf and exercise_2_slides.pdf for more details
