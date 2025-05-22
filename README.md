@@ -1,16 +1,25 @@
-# Exercise 2
+# 3D Scanning and Motion Capture
 
-## Goal
+## Exercise 1
 
-- Understanding about surface representation
-- Understanding about Marching Cubes method
-- Understanding about Hoppe and RBF methods
+- Understand about Mesh object
+- Understand about object in 3D
 
-## Exercises
+### Recommend run exercise 1 with visual studio and proj file
+
+## Exercise 2
+
+### Goal
+
+- Understand about surface representation
+- Understand about Marching Cubes method
+- Understand about Hoppe and RBF methods
+
+### Exercises
 
 All exercises are mentioned in TODO comments
 
-## To Run: install cmake
+### To Run: install cmake
 
 ```bash
 make exercise_2
@@ -28,4 +37,4 @@ to clean
 make clean
 ```
 
-## Read exercise_2.pdf and exercise_2_slides.pdf for more details
+### Read exercise_2.pdf and exercise_2_slides.pdf for more details
